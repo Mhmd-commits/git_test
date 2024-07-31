@@ -1,0 +1,17 @@
+[33mcommit 5b0d460c187a9406ff566071df9a3f897279cd2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Snow <boukhchina19mouhamed@gmail.com>
+Date:   Wed Jul 31 10:34:24 2024 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 53a7d80e596ae781b6a4753dcda276ab544886a6[m
+Author: Snow <boukhchina19mouhamed@gmail.com>
+Date:   Wed Jul 31 10:21:22 2024 +0100
+
+    Add hello_world.txt
+
+[33mcommit 97afe71ad2ab924f41c3b65a8df29be0c9e4c5e0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Snow <secondmhmd@gmail.com>
+Date:   Tue Jul 30 23:23:22 2024 +0100
+
+    Initial commit
